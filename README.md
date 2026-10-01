@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Selam, Ben Yusuf Alperen!
 
-<!--
-**Yusuf-Alperen-IZI/Yusuf-Alperen-IZI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+12 yaşındayım ve tutkuyla yazılım geliştiriyorum. Gelecekte harika bir **Yazılım Mühendisi** olmayı hedefliyorum! 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Kullandığım Teknolojiler & Örnek Kodlar
+
+```html
+<!-- HTML / Web Geliştirme -->
+<div class="developer">
+  <h2>Yusuf Alperen - Geleceğin Yazılım Mühendisi</h2>
+  <button onclick="alert('Hoş geldin!')">Bana Tıkla</button>
+</div>
